@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//inc/cmu.h=UTF-8
+encoding//inc/gpio.h=UTF-8
+encoding//inc/letimer.h=UTF-8
+encoding//inc/main.h=UTF-8
+encoding//inc/sleep.h=UTF-8
+encoding//src/cmu.c=UTF-8
+encoding//src/gpio.c=UTF-8
+encoding//src/letimer.c=UTF-8
+encoding//src/sleep.c=UTF-8
+encoding/main.c=UTF-8
